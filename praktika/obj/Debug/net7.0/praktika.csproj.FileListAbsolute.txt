@@ -1,0 +1,15 @@
+/Users/irina/Projects/praktika/praktika/bin/Debug/net7.0/praktika
+/Users/irina/Projects/praktika/praktika/bin/Debug/net7.0/praktika.deps.json
+/Users/irina/Projects/praktika/praktika/bin/Debug/net7.0/praktika.runtimeconfig.json
+/Users/irina/Projects/praktika/praktika/bin/Debug/net7.0/praktika.dll
+/Users/irina/Projects/praktika/praktika/bin/Debug/net7.0/praktika.pdb
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.csproj.AssemblyReference.cache
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.GeneratedMSBuildEditorConfig.editorconfig
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.AssemblyInfoInputs.cache
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.AssemblyInfo.cs
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.csproj.CoreCompileInputs.cache
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.dll
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/refint/praktika.dll
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.pdb
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/praktika.genruntimeconfig.cache
+/Users/irina/Projects/praktika/praktika/obj/Debug/net7.0/ref/praktika.dll
